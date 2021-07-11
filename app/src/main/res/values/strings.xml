@@ -1,3 +1,2 @@
 <resources>
-    <string name="app_name">ToDoApp</string>
-</resources>
+    <string name="app_name"><font color='##000000'>ToDoアプリ</font></string></resources>
